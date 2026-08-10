@@ -1,5 +1,5 @@
 ### Comss.one hosts file
-## 01.08.2026
+## 10.08.2026
 
 # ChatGPT
 91.207.75.110    openai.com
@@ -340,3 +340,75 @@
 91.207.75.110    api.githubcopilot.com
 45.88.174.254    copilot-proxy.githubusercontent.com
 91.207.75.110    copilot-proxy.githubusercontent.com
+
+# Autodesk
+45.88.174.254    autodesk.com
+91.207.75.110    autodesk.com
+
+# ClickUp
+45.88.174.254    clickup.com
+91.207.75.110    clickup.com
+
+# Codeium
+45.88.174.254    codeium.com
+91.207.75.110    codeium.com
+
+# DeepL
+45.88.174.254    deepl.com
+91.207.75.110    deepl.com
+
+# Ecosia
+45.88.174.254    ecosia.org
+91.207.75.110    ecosia.org
+
+# ElevenLabs
+45.88.174.254    elevenlabs.io
+91.207.75.110    elevenlabs.io
+
+# Intel
+45.88.174.254    intel.ru
+91.207.75.110    intel.ru
+
+# JetBrains
+45.88.174.254    jetbrains.com
+91.207.75.110    jetbrains.com
+
+# LiveKit
+45.88.174.254    livekit.cloud
+91.207.75.110    livekit.cloud
+
+# Manus
+45.88.174.254    api.manus.im
+91.207.75.110    api.manus.im
+
+# Notion
+45.88.174.254    notion.com
+91.207.75.110    notion.com
+45.88.174.254    notion.so
+91.207.75.110    notion.so
+
+# Reve.art
+45.88.174.254    preview.reve.art
+91.207.75.110    preview.reve.art
+
+# Twitch
+45.88.174.254    usher.ttvnw.net
+91.207.75.110    usher.ttvnw.net
+
+# Adobe
+45.88.174.254    typekit.net
+91.207.75.110    typekit.net
+
+# Warner Bros
+45.88.174.254    wbagora.com
+91.207.75.110    wbagora.com
+45.88.174.254    wbgames.com
+91.207.75.110    wbgames.com
+
+# Weather
+45.88.174.254    weather.com
+91.207.75.110    weather.com
+
+# WorkOS
+45.88.174.254    api.workos.com
+91.207.75.110    api.workos.com
