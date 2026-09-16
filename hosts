@@ -2248,11 +2248,11 @@
 31.25.239.132 geolocation.onetrust.com
 
 # GitHub Copilot
-217.60.245.219 api.github.com
-217.60.245.233 api.github.com
-46.8.158.6 api.github.com
-193.233.112.67 api.github.com
-193.233.112.68 api.github.com
+# 217.60.245.219 api.github.com
+# 217.60.245.233 api.github.com
+# 46.8.158.6 api.github.com
+# 193.233.112.67 api.github.com
+# 193.233.112.68 api.github.com
 217.60.245.219 api.individual.githubcopilot.com
 217.60.245.233 api.individual.githubcopilot.com
 46.8.158.6 api.individual.githubcopilot.com
