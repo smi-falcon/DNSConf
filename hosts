@@ -2265,16 +2265,16 @@
 193.233.112.68 proxy.individual.githubcopilot.com
 
 # Google
-217.60.245.219 google.com
-217.60.245.233 google.com
-2.27.118.34 google.com
-143.20.64.192 google.com
-31.25.239.132 google.com
-217.60.245.219 www.google.com
-217.60.245.233 www.google.com
-2.27.118.34 www.google.com
-143.20.64.192 www.google.com
-31.25.239.132 www.google.com
+# 217.60.245.219 google.com
+# 217.60.245.233 google.com
+# 2.27.118.34 google.com
+# 143.20.64.192 google.com
+# 31.25.239.132 google.com
+# 217.60.245.219 www.google.com
+# 217.60.245.233 www.google.com
+# 2.27.118.34 www.google.com
+# 143.20.64.192 www.google.com
+# 31.25.239.132 www.google.com
 217.60.245.219 gemini.google
 217.60.245.233 gemini.google
 2.27.118.34 gemini.google
